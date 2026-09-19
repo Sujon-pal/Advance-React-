@@ -1,8 +1,12 @@
 import './App.css'
 import Useeffect from './component/useEffect/Useeffect'
+import UseMemo from './component/useMemo/UseMemo'
 function App() {
   return (
-   <Useeffect></Useeffect>
+ <div>
+    {/* <Useeffect></Useeffect> */}
+    <UseMemo></UseMemo>
+ </div>
   )
 }
 
