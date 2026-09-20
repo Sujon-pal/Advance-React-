@@ -8,10 +8,10 @@
 
 ## 🔥 Phase 01 — Advanced Hooks
 
-* [x] useEffect (Deep Dive)
+* [x] useEffect 
 * [x] useMemo
-* [x] useCallback
-* [ ] useRef
+* [x] useCallback 
+* [ ] useRef 🚩
 * [ ] useReducer
 * [ ] Custom Hooks
 
