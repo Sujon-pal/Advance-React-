@@ -1,17 +1,17 @@
 # ⚛️ React Advance — Notes & Practice
 
-> My complete React Advanced learning journey with Programming Hero.
+> My complete React Advanced learning journey.
 
-Learning React step by step with **Bangla Notes + Code Examples + Interview Preparation + Practice Projects**.
+Learning React step by step with **Bangla Notes, Code Examples, Interview Preparation, and Practice Projects.**
 
 ---
 
 ## 🚀 About This Repository
 
-This repository contains everything I learn in React Advanced.
+This repository contains everything I learn in **React Advanced**.
 
 * 📘 Bangla Notes
-* 💻 Vite React Demo Projects
+* 💻 Code Examples
 * 🧠 Interview Notes
 * ✅ Practice & Assignments
 * 📂 Clean Folder Structure
@@ -22,7 +22,7 @@ This repository contains everything I learn in React Advanced.
 
 | Phase | Topic                      | Status      |
 | ----- | -------------------------- | ----------- |
-| 01    | Advanced Hooks             | 🟨 Learning |
+| 01    | Advanced Hooks             | 🟡 Learning |
 | 02    | Performance Optimization   | ⬜ Pending   |
 | 03    | Context & State Management | ⬜ Pending   |
 | 04    | React Router               | ⬜ Pending   |
@@ -34,83 +34,68 @@ This repository contains everything I learn in React Advanced.
 
 ---
 
-## 📚 Topics Included
+## 📚 Topics Covered
 
 ### 🔥 Advanced Hooks
 
-* [ ] useEffect Deep Dive
-* [ ] useMemo
-* [ ] useCallback
-* [ ] useRef
-* [ ] useReducer
-* [ ] Custom Hook
+* useEffect (Deep Dive)
+* useMemo
+* useCallback
+* useRef
+* useReducer
+* Custom Hook
 
 ### ⚡ Performance Optimization
 
-* [ ] React.memo
-* [ ] Re-rendering
-* [ ] Profiler
-* [ ] Code Splitting
+* React.memo
+* Re-rendering
+* Profiler
+* Code Splitting
 
-### 🌍 State Management
+### 🌍 Context & State Management
 
-* [ ] Context API
-* [ ] Redux Toolkit
-* [ ] Zustand
-* [ ] TanStack Query
+* Context API
+* Redux Toolkit
+* Zustand
+* TanStack Query
 
 ### 🧭 Routing
 
-* [ ] React Router
-* [ ] Nested Routes
-* [ ] Protected Routes
-* [ ] Dynamic Routes
+* React Router
+* Nested Routes
+* Protected Routes
+* Dynamic Routes
 
-### 📝 Forms
+### 📝 Forms & Validation
 
-* [ ] React Hook Form
-* [ ] Zod Validation
+* React Hook Form
+* Zod Validation
 
 ### 💻 Professional React
 
-* [ ] TypeScript
-* [ ] Error Boundaries
-* [ ] Testing
-* [ ] API Integration
+* TypeScript
+* Error Boundaries
+* API Integration
+* Testing
 
 ### 🚀 Next Step
 
-* [ ] Next.js Fundamentals
-
-
-## 📖 Notes Format
-
-Every topic contains:
-
-* 📘 `notes.md`
-* 🎯 `interview.md`
-
-
-
+* Next.js Fundamentals
 
 ---
 
-## 📅 Progress Tracker
+## 📖 Notes Format
 
-* [x] React Basics
-* [x] Props
-* [x] State
-* [ ] Advanced Hooks
-* [ ] Redux Toolkit
-* [ ] React Router
-* [ ] TypeScript
-* [ ] Next.js
+Each topic folder contains:
+
+* 📘 `notes.md` — Bangla explanation with code.
+* 🎯 `interview.md` — Interview questions and important points.
 
 ---
 
 ## 🎯 Goal
 
-Become a **Frontend React Developer** by mastering React fundamentals and advanced concepts through notes, practice, and projects.
+Become a **Frontend React Developer** by mastering React fundamentals and advanced concepts through notes, practice, and real-world projects.
 
 ---
 
