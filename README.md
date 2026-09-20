@@ -82,45 +82,16 @@ This repository contains everything I learn in React Advanced.
 
 * [ ] Next.js Fundamentals
 
----
-
-## 📁 Folder Structure
-
-```text
-React Advance/
-│
-├── README.md
-├── SYLLABUS.md
-│
-├── 01-Advanced-Hooks/
-├── 02-Performance-Optimization/
-├── 03-Context-State-Management/
-├── 04-Routing/
-├── 05-Forms-Validation/
-├── 06-TypeScript/
-├── 07-API-Integration/
-├── 08-Testing/
-└── 09-NextJS/
-```
-
----
 
 ## 📖 Notes Format
 
 Every topic contains:
 
 * 📘 `notes.md`
-* 💻 `demo-project`
 * 🎯 `interview.md`
 
-Example:
 
-```text
-useMemo/
-├── notes.md
-├── interview.md
-└── demo-project/
-```
+
 
 ---
 
