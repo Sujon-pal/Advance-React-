@@ -10,10 +10,8 @@ Learning React step by step with **Bangla Notes, Code Examples, Interview Prepar
 
 This repository contains everything I learn in **React Advanced**.
 
-* 📘 Bangla Notes
+* 📘  Notes
 * 💻 Code Examples
-* 🧠 Interview Notes
-* ✅ Practice & Assignments
 * 📂 Clean Folder Structure
 
 ---
@@ -84,14 +82,7 @@ This repository contains everything I learn in **React Advanced**.
 
 ---
 
-## 📖 Notes Format
 
-Each topic folder contains:
-
-* 📘 `notes.md` — Bangla explanation with code.
-* 🎯 `interview.md` — Interview questions and important points.
-
----
 
 ## 🎯 Goal
 

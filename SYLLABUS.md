@@ -11,8 +11,8 @@
 * [x] useEffect 
 * [x] useMemo
 * [x] useCallback 
-* [ ] useRef 🚩
-* [ ] useReducer
+* [x] useRef 
+* [ ] useReducer 🚩
 * [ ] Custom Hooks
 
 ---
