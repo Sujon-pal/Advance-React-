@@ -12,8 +12,8 @@
 * [x] useMemo
 * [x] useCallback 
 * [x] useRef 
-* [ ] useReducer 🚩
-* [ ] Custom Hooks
+* [x] useReducer 
+* [ ] Custom Hooks 🚩
 
 ---
 
